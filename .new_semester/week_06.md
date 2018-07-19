@@ -1,1 +1,3 @@
-
+- Busy this week because of my final exams for biology
+- We went over the architecture for the website and everyone knows what their tasks are
+- Started looking at both blazeplate and Yacs for inspiration for my header and footer components
