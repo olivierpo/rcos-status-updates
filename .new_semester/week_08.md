@@ -1,0 +1,4 @@
+- finished replacing onsen-ui with bootstrap.
+- helped jeffrey resolve some merge conflicts
+- changed up the header and footer design
+- tested the look of new components with jeffrey's schedule page
