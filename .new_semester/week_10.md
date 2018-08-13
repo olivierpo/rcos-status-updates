@@ -1,0 +1,4 @@
+- Worked on routing
+- Finished routing with the help of professor Turner
+- Fixed a bug where the routing was sometimes not working because of (a comment???)
+- Started working on some ESLint errors
