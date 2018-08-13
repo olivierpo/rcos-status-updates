@@ -1,0 +1,3 @@
+- Worked on fixing some issues with states with jeffrey
+- fixed some issues with header and footer links
+- cleaned up App.vue in preperation of the routing that i will implement
