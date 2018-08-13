@@ -1,0 +1,4 @@
+- Worked on ESLint errors but got stuck on some errors regarding windows to linux newline issues
+- Alex helped me sort out all the ESLint errors
+- fixed some merge conflicts with Tommy's Reservation page changes
+- Started and made some good progress on the search page html and css
