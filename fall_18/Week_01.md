@@ -1,0 +1,4 @@
+- Got my developer account approved by twotter
+- set up docker, jupyter notebooks and tensorflow
+- started the model (bag of words)
+- worked on my project presentation 
