@@ -1,0 +1,3 @@
+- Starting looking at non-feedforward methods for NLP
+- Chose LSTM for my text classification problem
+- as witht nhe cnn, there was some wor to do getting it up and running with TensorFlow estimators
