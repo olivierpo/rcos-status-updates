@@ -1,1 +1,1 @@
-
+Unfortunately for this last week, I've been able to do basically nothing. I don't have any finals for any of my classes so everything is due on the 10th and 11th. Hopefully i can continue working on this over the winter break to get that pesky word2vec working. 
