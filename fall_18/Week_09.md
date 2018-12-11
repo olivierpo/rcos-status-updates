@@ -1,1 +1,1 @@
-
+This week was really busy for me I wasn't able to get much done at all. I finished restructuring the project's files and classes that I had put off for a few weeks. In the future, I'd like to work on the preiction results of the simple BOW model to see if I can tweek some of the hyperparameters to better predict.
