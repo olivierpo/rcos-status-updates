@@ -1,1 +1,4 @@
 
+This week I've decided to give the research another go. Since creating the models was sort of a smaller part of my project I forsee this as being a big part of the weeks to come. I've come across two more good papers that I'm analyzing.
+- https://arxiv.org/pdf/1702.01923.pdf is a great paper regarding the difference between RNN and CNN for NLP. This paper is what originially made me choose CNN over the traditional RNN for my processing of the tweets. I've revisited it because I'm thinking of doing a RNN as wel  but I'm not sure of the worth of such a thing.
+- http://www.aclweb.org/anthology/C16-1229 This was also an intersting read as it pertains to sentiment analysis, something that I could try to use in my project for it could help in identifying users. Also, they use shorter texts which is exactly what I'm doing.
