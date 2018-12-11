@@ -1,1 +1,3 @@
-
+This week, I looked at some more papers as to see if there was any potential in imporoving my bag of words moedl that I used for my more simple preiction model. 
+- https://arxiv.org/ftp/arxiv/papers/1704/1704.06841.pdf In here I can see that even with good hyperparameter tweaking by the authors, it is no match for the CNN implementation that they have which uses the word2vec model(which i should implement in the future if i have time, as it is incredinbly powerful it seems).
+Seeing that last paper, i decided to look at word2vec and understand what exactly I'm doing wrong. with my current model. Already I know that my window size of 2 is way too small and that I can increase that size drastically. In fact, the paper that i read has their size at 50 words. A 50x100 grid (100 for the word vectors from the word2vec model).
