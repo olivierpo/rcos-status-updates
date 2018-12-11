@@ -1,1 +1,1 @@
-
+This week I decided to split up my classes as they were getting unwieldy. Here I ran into a major problem when doing so because of how the linking in docker works. I could not for the life of me figure out what was wrong with the new imports that I was doing to my own files, that should for all intents and purposes be correct, but I’ve sent Alex the docker wizard a slack message so I’ll see if he responds. 
