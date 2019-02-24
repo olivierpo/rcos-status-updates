@@ -1,0 +1,4 @@
+- Not sick anymore!! 
+- Forked chocolate-gradle. Our main project repo. 
+- First task is to refacture all the code. No blockers yet.
+- started doing a gradle tutorial to get more familiar with our project.
