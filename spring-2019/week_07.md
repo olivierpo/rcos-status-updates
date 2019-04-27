@@ -1,1 +1,1 @@
-
+- medical problem worse this week. Couldnt get any work done.
