@@ -1,1 +1,3 @@
-
+- Wasn't able to get much done this week for I had a medical problem acting up. Wasn;t able to attend class either.
+- In order to actually work on the project, I need to understand decompiling better so im working on that. One of the things that chocolate can one day work on is its own decomplier (and by that i mean a modified open source decompiler). 
+- Procyon seemed to be a fairly popular decompiler and in cfact, fabric/yarn uses software that uses an underlying implementation of procyon.
