@@ -1,1 +1,3 @@
-
+- Gradle hello world tutorial from the Intellij website allowed me to set up my first project.
+- was stuck on Gradle not working properly with the version of Intellij that i had installed.
+- Problem was not that gradle wasn't working but some of the features of the version of intellij that i am using are differnt than the ones i was eeing int he tutorial.
