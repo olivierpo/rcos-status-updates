@@ -1,1 +1,3 @@
-- this week 
+- this week i realized i had no idea what i was doing with the refactoring of our code. 
+- I looked at Fabric and Sponge docs and have been researching what exqactly they do and what features they offer etc.
+- The research has led me to the fabric-mc repo that should have a similar set up to chocolate (i think?) 
