@@ -1,1 +1,4 @@
-
+- Worked on a new gradle tutorial this week. All those weeks missed has put me behind but I feel i can still catch up and do some stuff for chocolate.
+- The gradle website has some awesome guides that i used to familiarize myself with the main tool for chocolate. Since im already familiar with Java this should be the last thing i need before jumping in.
+- https://guides.gradle.org/creating-new-gradle-builds/ Is the first tutorial i followed and completed.
+- https://spring.io/guides/gs/gradle/#scratch Was also helpful. 
