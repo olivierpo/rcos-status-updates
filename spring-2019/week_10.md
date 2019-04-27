@@ -1,1 +1,4 @@
-
+- after speaking with scott on friday, we decided i should get the deobfuscator working.
+- no luck so far but the yarn github that i was looking at last week should relly help me out.
+- Enigma uses procyon to decompile the jar and then uses custom mappings to deobfuscate everything.
+- Yarn also uses something called tinymappings but it remains to be seen if we'll need to even look into that.
