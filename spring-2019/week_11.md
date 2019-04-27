@@ -1,1 +1,2 @@
-
+- I think i have it figured out! I'm almost done getting the deobfuscator to work. I really want to end the semester with at least something of value done!!
+- Blockers are getting mappings to correctly work on the jar we downloaded with our download minecraft implementation.
